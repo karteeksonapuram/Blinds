@@ -1,0 +1,17 @@
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\Default.srprofile
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\Report\ReportTemplate.cshtml
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\Blinds.UIAutomation.dll.config
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\Blinds.UIAutomation.dll
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\Blinds.UIAutomation.pdb
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\TechTalk.SpecFlow.dll
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\TechTalk.SpecRun.dll
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\WebDriver.dll
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\WebDriver.Support.dll
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\WebDriver.xml
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\bin\Debug\WebDriver.Support.xml
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\obj\Debug\Blinds.UIAutomation.csprojResolveAssemblyReference.cache
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\obj\Debug\Blinds.UIAutomation.dll
+C:\Blintest\Blinds.UIAutomation\Blinds.UIAutomation\obj\Debug\Blinds.UIAutomation.pdb
