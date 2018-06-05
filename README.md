@@ -16,4 +16,5 @@ prerequisite | Nuget packages
 
   ##############################
   - Specflow tests are located under Tests folder
+  - build the solution, tests to run with tag name can be found under test explorer. Test->windows->Test Explorer
   - After the test run, customized specflow test report including screenshots can be located under Blinds.UIAutomation\TestResults.
