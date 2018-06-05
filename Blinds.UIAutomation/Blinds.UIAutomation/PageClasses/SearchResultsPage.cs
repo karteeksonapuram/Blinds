@@ -170,7 +170,8 @@ namespace Blinds.UIAutomation.PageClasses
                         string productDetails = product.Text;
                         productDetails = productDetails.Replace("\r\n", "|");
                         _productSearchResultsDetails.Add(productId, productDetails);
-
+                        //Sometimes search results returns N/A as first productunder search results,but the price in description page is high
+                        //it is unclear to me about this functionality,hence not considering n/a product.
                         if (productPrice.ToLower().Contains("n/a"))
                         {
                             _productSearchPriceDetails.Add(productId, -1);
